@@ -1,0 +1,2 @@
+# scIRC
+Basic YeeYee chatting
